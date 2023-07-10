@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="US Score: "
-            android:textSize="24sp" />
+            android:textSize="25sp" />
 
         <Button
             android:id="@+id/increaseTeam1Button"
